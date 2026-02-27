@@ -1,2 +1,6 @@
-# muffybot-wikipedia
-MuffyBot pour Wikipédia en français. Pour voir le code de MuffyBot sur Vikidia, cliquez ici : https://github.com/Les-dev-de-bot-vikidiens/MuffyBot
+## MuffyBot - Bot PyWikiBot multifonctions
+*Ce dépôt GitHub est exclusivement réservé au code de MuffyBot pour Wikipédia. Pour voir le code de MuffyBot sur Vikidia, cliquez ici : https://github.com/Les-dev-de-bot-vikidiens/MuffyBot *
+MuffyBot est un bot codé en Python avec le plugin PyWikiBot. Il est publié sous licence GNU GPL v3.
+### Fonctions
+- ...
+- ...
